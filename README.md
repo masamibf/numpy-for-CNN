@@ -7,7 +7,7 @@
 
 layers.py 包括 卷积层、池化层、全连接层、激活层 的实现
 
-在train.py 中运行程序
+在train_cnn.py 中运行程序
 
 结果：
 	
